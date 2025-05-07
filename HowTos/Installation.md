@@ -8,7 +8,7 @@ repository to your machine and learn how to `compile` the website locally.
 This is done by running the following command in your terminal:
 
 ```shell
-$ git clone https://github.com/Nikoleta-v3/social-behaviour.git
+$ git clone git@github.com:dynamics-social-behavior/dynamics-social-behavior.github.io.git
 ```
 
 ## Compile the website locally
