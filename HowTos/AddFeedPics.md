@@ -41,7 +41,7 @@ $ cd original-images-feed/
 The run the following command:
 
 ```shell
-mogrify -path ../feed-imgs/ -monitor -quality 200 -trim -resize  '>'600x400 *.jpg
+mogrify -monitor -trim -resize '>600x400' -quality 90 -path ../feed-imgs/ *.jpg
 ```
 
 
