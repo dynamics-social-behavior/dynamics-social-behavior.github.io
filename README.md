@@ -1,6 +1,6 @@
 # Personal Website for the Group Dynamics of Social Behavior
 
-Welcome to the source code for our website.
+Welcome to the source code for our website: https://dynamics-social-behavior.github.io.
 
 ## A new member joined the group?
 
