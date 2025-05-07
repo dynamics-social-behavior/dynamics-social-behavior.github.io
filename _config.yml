@@ -5,7 +5,8 @@ description: "A research group at the Max Planck Institute for Evolutionary Biol
 logo: bio.png
 teaser: bio.png
 locale: en
-url: "https://dynamics-of-social-behavior.github.io"
+url: "https://dynamics-social-behavior.github.io"
+baseurl: ''
 feed:
   path: atom.xml
 
