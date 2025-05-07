@@ -9,16 +9,6 @@ share: false
 ads: false
 ---
 
-<h5>About</h5>
-
-<p class="big" style="font-size:16px;">
-Max Planck Institute for Evolutionary Biology <br>
-Research Group Dynamics of Social Behavior <br>
-August-Thienemann-Str. 2 <br>
-24306 Plön <br>
-Germany
-</p>
-
 <h5>Research Statement</h5>
 
 Based on the <a href="https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf">
