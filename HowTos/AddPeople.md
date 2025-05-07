@@ -3,7 +3,7 @@
 In order to add your personal profile you must include a new file (`.md`) file
 in `_posts/people/`.
 
-Firstly you need to branch (do not make changes to `master`).
+Firstly you need to branch (do not make changes to `main`).
 To branch use the commands `git branch <name>` and `git checkout <name>`.
 
 Name the branch as `add-people-your_last_name`. For example:

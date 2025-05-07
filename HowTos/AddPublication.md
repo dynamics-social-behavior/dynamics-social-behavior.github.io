@@ -2,7 +2,7 @@
 
 In order to add your new publication you need to edit the file `publications/index.md`.
 
-Firstly you need to branch (do not make changes to `master`).
+Firstly you need to branch (do not make changes to `main`).
 To branch use the commands `git branch <name>` and `git checkout <name>`.
 
 Name the branch as `short-publication-title`. For example:
