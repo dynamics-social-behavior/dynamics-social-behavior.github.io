@@ -35,7 +35,7 @@ Then, navigate to the website folder (directory) and the images folder `original
 by running:
 
 ```shell
-$ cd social-behaviour/original-images-feed/
+$ cd original-images-feed/
 ```
 
 The run the following command:
