@@ -23,6 +23,11 @@ _Nature Communications_ (2025) <a href="papers/Rossetti_NComms_2025.pdf"><i clas
 
 <h6>2024</h6>
 
+- Julien Lie-Panis, Léo Fitouchi, Nicolas Baumard & Jean-Baptiste André.
+[**The social leverage effect: Institutions transform weak reputation effects into strong incentives for cooperation.**](https://www.pnas.org/doi/10.1073/pnas.2408802121)
+_Proceedings of the National Academy of Sciences_ (2024) 
+<a href="papers/Lie-Panis_PNAS_2024.pdf"><i class="fa fa-file-pdf-o"></i>
+
 - Nikoleta E Glynatsi, Vincent A Knight & Marc Harper.
 [**Properties of winning Iterated Prisoner's Dilemma strategies.**](https://doi.org/10.1371/journal.pcbi.1012644)
 _PLOS Computational Biology_ (2024) 
